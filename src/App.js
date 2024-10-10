@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './Vector.svg'; // Use the new logo
+import logo from './Vector.svg'; // Ensure this points to the new logo file
 import './App.css';
 
 function App() {
