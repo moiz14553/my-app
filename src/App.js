@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import React from 'react';
+import logo from './Vector.svg'; // Use the new logo
 import './App.css';
 
 function App() {
@@ -11,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit Dirtmate
         </a>
       </header>
     </div>
